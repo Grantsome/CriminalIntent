@@ -1,2 +1,1 @@
-# CriminalIntent
-《Android权威指南》
+# CriminalIntent《Android权威指南》### 按照权威指南的上面的代码写的CrimeIntent应用。##### 个人感觉比第一行代码的代码质量要高一些。封装复用更好，知识面上面各有不同。##### 多说无意义，直接上效果图片。##### 因为我之前已经添加过数据了![](/readMeNeedPicture/1.jpg)##### 如果你点击那一个一个标题栏上面的三个点的图标![](/readMeNeedPicture/2.jpg)##### 也就是可以显示数量。##### 点击标题栏上面的那个加号![](/readMeNeedPicture/3.jpg)##### 点击拍照的图标![](/readMeNeedPicture/4.jpg)#####  点击选择联系人![](/readMeNeedPicture/7.jpg)##### 点击选择时间![](/readMeNeedPicture/6.jpg)##### 点击发送和分析![](/readMeNeedPicture/8.jpg)##### 新建完成![](/readMeNeedPicture/5.jpg)##### 可以左右滑动
